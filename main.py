@@ -22,4 +22,4 @@ meteorito_img = pygame.image.load(os.path.join("imagenes", "meteorito.png"))
 
 # ---cambiar eltamaño de las imagenes---
 robot_img = pygame.transform.scale(robot_img, (60, 60))
-meteorito_img = pygame.transform.scale(meteorito_img, (40, 40))
+meteorito_img = pygame.transform.scale(meteorito_img, (40, 40)
